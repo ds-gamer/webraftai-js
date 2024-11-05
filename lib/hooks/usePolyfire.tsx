@@ -15,7 +15,7 @@ const PolyfireContext = createContext<{
 export function PolyfireProvider({
     children,
     project,
-    endpoint = "https://api.polyfire.com",
+    endpoint = "http://api.webraft.in:8080",
     autoLogin,
 }: {
     children: ReactNode;
