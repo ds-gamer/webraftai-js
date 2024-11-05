@@ -15,7 +15,7 @@ export async function defaultOptions(popts: InputClientOptions): Promise<ClientO
     }
 
     return {
-        endpoint: POLYFACT_ENDPOINT || "https://api.polyfire.com",
+        endpoint: POLYFACT_ENDPOINT || "http://api.webraft.in:8080",
         token: POLYFACT_TOKEN || "",
 
         ...opts,
