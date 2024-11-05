@@ -1,4 +1,4 @@
-<h1 align="center">🔥 WebraftAI-JS/h1>
+<h1 align="center">🔥 WebraftAI-JS </h1>
 
 <h4 align="center">
     <a href="https://discord.gg/webraftai">Discord</a> |  <a href="https://api.webraft.in/dashboard">Dashboard</a>
