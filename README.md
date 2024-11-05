@@ -1,12 +1,12 @@
-<h1 align="center">🔥 polyfire</h1>
+<h1 align="center">🔥 WebraftAI-JS/h1>
 
 <h4 align="center">
-    <a href="https://www.polyfire.com/discord">Discord</a> |  <a href="https://beta.polyfire.com">Dashboard</a>
+    <a href="https://discord.gg/webraftai">Discord</a> |  <a href="https://api.webraft.in/dashboard">Dashboard</a>
 </h4>
 
 <p align="center">⚡ An all-in-one managed backend for AI apps. Build AI apps from the frontend, very fast. 🪶</p>
 
-Why use Polyfire?
+Why use this?
 
 -   Just code from the frontend, no backend needed
 -   If you already have backend, less code to write
