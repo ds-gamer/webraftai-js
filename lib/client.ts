@@ -54,7 +54,7 @@ export function client(
 
 export default function PolyfireClientBuilder({
     project,
-    endpoint = "https://api.polyfire.com",
+    endpoint = "http://api.webraft.in:8080",
 }: {
     project: string;
     endpoint?: string;
